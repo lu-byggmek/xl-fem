@@ -1,2 +1,3 @@
 # xl-fem
-Finite Element in Excel
+
+Finite Element analysis in Excel.
